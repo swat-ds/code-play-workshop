@@ -32,6 +32,12 @@ incorporating data -- all in the browser. Geared towards beginners but experienc
 - [Seattle Subject Smears](https://editor.p5js.org/bulbil/sketches/hS1I6m7bH)
 - [COVID Balloons](https://editor.p5js.org/bulbil/sketches/p7DW7PtK8)
 
+#### Example datasets
+
+- [CSSE COVID-19 Timeseries By Day](https://github.com/swat-ds/code-play-workshop/raw/master/csse_covid_19_time_series_by_day.csv)
+- [Seattle Public Library Checkouts: Popular Subjects (2005 - 2020)](https://github.com/swat-ds/code-play-workshop/raw/master/seattle-checkout-by-pop-subj-25.csv)
+- [Seattle Public Library Checkouts: Popular Authors (2005 - 2020)](https://github.com/swat-ds/code-play-workshop/raw/master/seattle-checkout-by-pop-creator-100.csv)
+
 <hr/>
 
 #### Learn more
