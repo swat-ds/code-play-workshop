@@ -38,6 +38,10 @@ incorporating data -- all in the browser. Geared towards beginners but experienc
 - [Seattle Public Library Checkouts: Popular Subjects (2005 - 2020)](https://github.com/swat-ds/code-play-workshop/raw/master/seattle-checkout-by-pop-subj-25.csv)
 - [Seattle Public Library Checkouts: Popular Authors (2005 - 2020)](https://github.com/swat-ds/code-play-workshop/raw/master/seattle-checkout-by-pop-creator-100.csv)
 
+**Sources**
+- [Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)](https://github.com/CSSEGISandData/COVID-19)
+- [City of Seattle Open Data Program](https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6/data)
+
 <hr/>
 
 #### Learn more
